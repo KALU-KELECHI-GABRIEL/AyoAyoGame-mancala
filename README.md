@@ -1,4 +1,6 @@
 # AyoAyoGame-mancala
+
+### Introduction
 A project to test my understanding of game theory, and decision theory.
 
 This project is a simple mancala game written in JavaFx. I wrote this project back in February 2015.
@@ -7,7 +9,7 @@ Your are free to use the code or build upon it, all I ask is that you at least g
 
 
 
-<h3>About The Game [How To Play It]:</h3>
+## About The Game [How To Play It]
 
 Ayoayo is a Nigerian mancala game which is played by the Yoruba ethic group in Nigeria. It should not be confused with Oware, which is also sometimes called "Ayoayo".
 
@@ -28,3 +30,21 @@ The player who captures the most seeds wins the game.
 - Created by Odigie Oseme U. | http://osemeodigie.com [Alpha version v1.0]
 
 Website: http://osemeodigie.com
+
+
+## Contributing
+
+Remember that this game was just to help my understanding of some CS concepts. Please feel free to fork this repo and contribute by submitting a pull request to enhance the functionalities or fix one of the many bugs in here.
+
+## How can I thank you?
+
+Hi, you can help by staring the github repo :-) . You can also share the link for this repository on Twitter or HackerNews? I would love the attention :-). Help Spread the word!
+
+Don't forget to [follow my blog](http://osemeodigie.com)!
+
+Thanks!
+Oseme Odigie.
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
