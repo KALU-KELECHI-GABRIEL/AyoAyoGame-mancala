@@ -38,7 +38,9 @@ Remember that this game was just to help my understanding of some CS concepts. P
 
 ## How can I thank you?
 
-Hi, you can help by staring the github repo :-) . You can also share the link for this repository on Twitter or HackerNews? I would love the attention :-). Help Spread the word!
+Hi there, 
+
+you can help by staring the github repo :smile: . You can also share the link for this repository on Twitter or HackerNews? I would love the attention :grin: . Help Spread the word!
 
 Don't forget to [follow my blog](http://osemeodigie.com)!
 
